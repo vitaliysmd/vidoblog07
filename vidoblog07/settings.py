@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'blog',
 
     'django.contrib.sites',
-    'django_comments',
+    # 'django_comments',
 ]
 
 MIDDLEWARE = [
